@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "https://modern-qtrip-dynamic-web.herokuapp.com" };
+const config = { backendEndpoint: "https://qtrip-dynamic-webapp.onrender.com" };
 
 export default config;
